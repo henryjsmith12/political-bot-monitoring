@@ -131,3 +131,4 @@ dmypy.json
 # Other
 twitter-api-keys.txt
 .DS_Store
+*.json
